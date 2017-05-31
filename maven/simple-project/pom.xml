@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.sonatype.nexus.examples</groupId>
-  <artifactId>simple-project_new</artifactId>
+  <artifactId>simple-project</artifactId>
   <version>2.0.0</version>
   <packaging>jar</packaging>
 
